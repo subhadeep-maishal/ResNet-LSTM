@@ -2,7 +2,7 @@
 ResNet+LSTM [ like  ResNet-18 or ResNet-34 ]
 
 
- Warning: run only Hm Node IF 
+Warning: run only in Hm Node IF Hadoop
 
 developed in indian institute of technology kharagpur
 
